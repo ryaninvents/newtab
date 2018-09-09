@@ -2,6 +2,8 @@
 
 Chrome "New Tab" page
 
+<img src="newtab.png" alt="Screenshot of new tab page">
+
 ## Why?
 
 1. I wanted to see how hard it would be -- turns out it's not that complicated.
